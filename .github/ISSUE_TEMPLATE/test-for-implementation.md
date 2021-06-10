@@ -1,5 +1,5 @@
 ---
-name: Test for something
+name: Test for implementation
 about: 'Test for something '
 title: "[TEST] test for something"
 labels: is to do, test
