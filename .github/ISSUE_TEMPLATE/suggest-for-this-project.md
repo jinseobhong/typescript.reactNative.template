@@ -2,7 +2,7 @@
 name: Suggest for this project
 about: Suggest an idea for this project
 title: "[SUGGEST] Suggestions for something"
-labels: is to do, suggestion
+labels: is to do
 assignees: jinseobhong
 
 ---
