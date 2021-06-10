@@ -1,9 +1,9 @@
 ---
 name: Implementation
 about: Description of to implement
-title: '[Insert kind of implement] something to implement'
-labels: 'is to do'
-assignees: 'jinseobhong'
+title: "[Insert kind of implement] something to implement"
+labels: is to do, implementation
+assignees: jinseobhong
 
 ---
 
@@ -13,7 +13,7 @@ Please check the type of implement. If it is not in the checklist, please check 
 - [ ] Environment
 - [ ] Feature
 - [ ] Fix
-- [ ] Re factory
+- [ ] Refactory
 - [ ] etc : [ e.g: something ]
 
 **Describe to implement**

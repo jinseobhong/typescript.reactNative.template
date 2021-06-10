@@ -7,6 +7,15 @@ assignees: jinseobhong
 
 ---
 
+**What kind of implementation is the test for**
+Please check the type of implementation you want to test. If it is not on the checklist, please check etc and write it yourself.
+
+- [ ] Environment
+- [ ] Feature
+- [ ] Fix
+- [ ] Refactory
+- [ ] etc : [ e.g: something ]
+
 **What you are testing for** 
 Be specific about what you are testing against.
 
