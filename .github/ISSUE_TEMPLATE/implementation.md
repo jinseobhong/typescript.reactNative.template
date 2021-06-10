@@ -2,7 +2,7 @@
 name: Implementation
 about: Description of to implement
 title: "[Insert kind of implement] something to implement"
-labels: is to do, implementation
+labels: implementation, is to do
 assignees: jinseobhong
 
 ---
