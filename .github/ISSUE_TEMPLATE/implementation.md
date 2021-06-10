@@ -10,10 +10,11 @@ assignees: jinseobhong
 **What kind to implement**
 Please check the type of implement. If it is not in the checklist, please check etc and write it yourself.
 
+- [ ] Documentation
 - [ ] Environment
 - [ ] Feature
 - [ ] Fix
-- [ ] Refactory
+- [ ] Re-factory
 - [ ] etc : [ e.g: something ]
 
 **Describe to implement**

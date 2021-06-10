@@ -10,10 +10,10 @@ assignees: jinseobhong
 **What would you suggest**
 Please check the type of suggest. If it is not in the checklist, please check etc and write it yourself.
 
-- [ ] Bug
+- [ ] Documentation
 - [ ] Environment
 - [ ] Feature
-- [ ] Refactory
+- [ ] Re-factory
 - [ ] etc : [ e.g: something ]
 
 **What are you trying to solve with this proposal**
