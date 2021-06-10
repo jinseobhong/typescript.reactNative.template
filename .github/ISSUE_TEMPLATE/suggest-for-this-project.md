@@ -1,7 +1,7 @@
 ---
 name: Suggest for this project
 about: Suggest an idea for this project
-title: "[SUGGETSTION] Suggestions for something"
+title: "[SUGGEST] Suggestions for something"
 labels: is to do, suggestion
 assignees: jinseobhong
 
@@ -13,13 +13,14 @@ Please check the type of suggest. If it is not in the checklist, please check et
 - [ ] Bug
 - [ ] Environment
 - [ ] Feature
+- [ ] Refactory
 - [ ] etc : [ e.g: something ]
 
 **What are you trying to solve with this proposal**
 Please write what you would like to solve with your proposal.
 
 **Environment information**
-Please write you need information about the environment in the suggest.
+Please fill in the information about the environment you need in your proposal.
 
 OS : [ e.g: Ubuntu 20.04 LTS, etc .. ]
 Java : [ e.g: openjdk 11.0.11 2021-04-20, etc .. ]
