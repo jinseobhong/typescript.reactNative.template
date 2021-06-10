@@ -1,8 +1,7 @@
 ---
 name: Implementation
-<<<<<<< HEAD
 about: Description of to implement
-title: '[] something to implement'
+title: '[Insert kind of implement] something to implement'
 labels: 'is to do'
 assignees: 'jinseobhong'
 
