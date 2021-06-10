@@ -13,7 +13,7 @@ Please check the type of implementation you want to test. If it is not on the ch
 - [ ] Environment
 - [ ] Feature
 - [ ] Fix
-- [ ] Refactory
+- [ ] Re-factory
 - [ ] etc : [ e.g: something ]
 
 **What you are testing for** 

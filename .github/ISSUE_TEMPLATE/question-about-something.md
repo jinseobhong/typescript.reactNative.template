@@ -10,7 +10,7 @@ assignees: jinseobhong
 **What kind of question**
 Please check the type of question. If it is not in the checklist, please check etc and write it yourself.
 
-- [ ] Bug
+- [ ] Documentation
 - [ ] Environment
 - [ ] Feature
 - [ ] etc : [ e.g: something ]
