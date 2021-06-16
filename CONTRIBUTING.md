@@ -161,7 +161,7 @@
 
 ### 이슈 처리 담당 및 풀 리퀘스트 처리 담당
 
-- 버그 리포트 : [HONG JIN SEOB](@jinseobhong)
+- 버그 리포트 : [HONG JIN SEOB](jinseobhong)
 - 질문 : jinseobhong(@jinseobhong)
 - 제안 : jinseobhong(@jinseobhong)
 - 풀 리퀘스트 : jinseobhong(@jinseobhong)
