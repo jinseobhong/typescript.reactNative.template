@@ -9,14 +9,29 @@
 ## 커밋 메세지 작성 방법
 
 1) 커밋 메세지의 제목은 50자를 초과하지 않아야합니다.
-2) 
+2) 커밋 메세지 제목은 **구현 종류** 구현 내용 양식으로 작성합니다.
+3) 커밋 메세지 제목의 구현 종류는 다음과 같습니다 :  
+   1) **Add** to add something that did not exist before
+   2) **Update** to improve the function of an existing one
+   3) **Refactory** to improve non-functionality of an existing one
+   4) **Rename** to changing the name of a file or directory, changing its location
+   5) **Fix** to fix correct an error
+   6) **Delete** to delete an existing one.
+4) 커밋 메세지 제목의 구현 내용은 의미론적으로 작성합니다.
+5) 커밋 메세지의 설명은 제목 아래에 새로운 2줄의 라인을 개행한 후 적습니다.
+6) 커밋 메세지의 설명은 커밋이 어떠한 행위를 하였는 지에 대해 의미론적으로 상세히 작성합니다.
+7) 커밋 메세지의 예제는 다음과 같습니다.  
+  
+   > Add README.md
+   >
+   > Add a readme file from the repository
 
 ## 이슈 및 풀 리퀘스트의 작성 방법
 
 ### 이슈 및 풀 리퀘스트의 공통적인 작성 규칙
 
-1) 이슈 제목은 50 자를 초과하지 않아야합니다.(Github 에서는 50자 이하의 제목 작성을 권장합니다)
-2) 이슈 제목은 **[이슈의 종류] 이슈의 내용** 양식으로 작성 합시다.
+1) 이슈 제목은 50 자를 초과하지 않아야합니다.(Github 에서는 50 자 이하의 제목 작성을 권장합니다)
+2) 이슈 제목은 **[이슈의 종류]** 이슈의 내용 양식으로 작성 합시다.
 3) 이슈 제목에 이미 이슈 내용의 작업이 포함 된 경우 중복해서 적지 마십시오. 예를 들어 :
    - [ ] add: add README.md
    - [x] add: README.md
