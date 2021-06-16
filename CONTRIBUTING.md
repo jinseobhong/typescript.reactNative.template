@@ -8,6 +8,24 @@
 
 ## 이슈 및 풀 리퀘스트의 작성 방법
 
+### 이슈 및 풀 리쉐크트의 공통적인 작성 규칙
+
+1) 이슈 제목은 50 자를 초과하지 않아야합니다.(Github 에서는 50자 이하의 제목 작성을 권장합니다)
+2) 이슈 제목은 **[이슈의 종류] 이슈의 내용** 양식으로 작성 합시다.
+3) 이슈 제목에 이미 이슈 내용의 작업이 포함 된 경우 중복해서 적지 마십시오. 예를 들어 :
+   - [ ] add: add README.md
+   - [x] add: README.md
+5) 이슈 내용은 의미론적으로 작성해서 어떠한 내용인 지 추론이 가능해야 합니다. 예를 들어 :  
+   - [ ] [BUG] 초기화 오류
+   - [x] [BUG] Package.json의 의존성 충돌로 인한 초기화 오류  
+   - 위에 작성된 내용보다 아래에 작성된 내용을 권장합니다.
+6) 이슈 양식에서 요구하는 설명의 경우 5W1 원칙 하에 적어 주시기 바랍니다.
+7) 이슈 양식에서 요구하는 재현 방식은 절차적으로 작성하여 주십시오.
+   1) 저장소 복제
+   2) 프로젝트 초기화
+   3) 프로젝트 실행 테스트
+   4) ...
+
 ### 이슈 종류
 
 이슈 종류는 총 다섯 가지(버그 리포트 , 질문, 제안, 구현, 구현 테스트)로 되어있습니다. *버그 리포트*는 사용 상 문제가 생겼을 경우 작성합니다. *질문*은 버그 외 질문 사항에 대해 작성합니다. *제안*은 이 프로젝트 혹은 저장소에 대해 제안입니다. *구현*은 기여자를 위한 이슈로, 구현하고자 하는 내용이 있을 때 진행사항을 추적하는 용도로 사용합니다. *구현 테스트*는 구현한 것에 대한 테스트를 작성하기 위한 이슈입니다. **구현 및 구현 테스트에 대한 이슈 템플릿**은 공동 기여자로 등록됬을 경우 사용할 수 있습니다.
@@ -83,28 +101,41 @@
 
 #### 구현 테스트에 대한 이슈(기여자용) 작성
 
-### 풀 리퀘스트 요청
+*구현 테스트*는 이 프로젝트 혹은 저장소에 구현된 것에 대한 테스트 사항(테스트 진척도 및 목표)를 추적할 때 사용합니다.
 
-#### 풀 리퀘스트 전에 확인 사항
+구현은 다음과 같은 방법으로 작성하면 됩니다.
+
+1) 제목에는 [테스트] 테스트 내용 양식으로 작성해주시기 바랍니다.
+   - 예를 들어 : [저장소] 이슈 템플릿 추가
+2) 구현 테스트 종류를 라벨에 추가해주시기 바랍니다.
+3) 테스트 할 대상에 대해 설명 하십시오.
+4) 구현 테스트 목표에 대해 적으십시오.
+5) 구현 테스트를 위한 환경에 대해 적으십시오.
+6) 구현 테스트를 위한 작업을 적으십시오.
+7) 구현 테스트에 대해 추가로 작성할 내용이 있다면 적어주세요.
+8) 구현에 대해 참고할 것이 있다면 적어주세요.
+
+### 풀 리퀘스트 작성 방법
+
+*풀 리퀘스트*로 저장소에 기여하고자 할 떄 다음과 같은 방법으로 작성해주시기 바랍니다.
+
+1) 제목에는 *풀 리퀘스트로 하는 행동* 풀 리퀘스트 내용 양식으로 작성해주시기 바랍니다.
+   - 예를 들어 : Add contributor code of conduct
+2) 풀 리퀘스트로 하는 행동은 다음과 같습니다.
+   1) **Add** to add something that did not exist before
+   2) **Update** to improve the function of an existing one
+   3) **Refactory** to improve non-functionality of an existing one
+   4) **Rename** to changing the name of a file or directory, changing its location
+   5) **Fix** to fix correct an error
+   6) **Delete** to delete an existing one.
+3) 풀 리퀘스트 작성 방식으로 작성된 예제:  
+
+Changed :  
+  - Add README.md in repository
+  - Update content Item in README.md
+  - Refactory source for login method
+  - Rename README.md to readme.md
+  - Fix login error
+  - Delete README.md
 
 ## 이슈 담당자, 풀 리퀘스트 담당자의 행동 방침
-
-Rule of writing pull request :
-
-Please write the change history as follows:
-[Behavior of pull request] [Contents of pull request]
-Change history should not exceed 50 characters(Github recommends writing titles with no more than 50 characters)
-Write your title label like this:
-Add to add something that did not exist before, Update to improve the function of an existing one, Refactory to improve non-functionality of an existing one, Rename to changing the name of a file or directory, changing its location, Fix to fix correct an error, and Delete to delete an existing one.
-If the title already contains a corresponding action, do not duplicate it.
- add: add README.md
- Add README.md
-example :
-Add README.md in repository
-Update content Item in README.md
-Refactory source for login method
-Rename README.md to readme.md
-Fix login error
-Delete README.md
-
-
