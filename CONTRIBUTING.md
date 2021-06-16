@@ -157,8 +157,24 @@
      - Fix login error
      - Delete README.md
 
-## 이슈 담당자, 풀 리퀘스트 담당자의 처리 방침
+## 이슈 처리 방침 및 풀 리퀘스트 처리 방침
 
-### 이슈 담당자의 처리 방침
+### 이슈 처리 담당 및 풀 리퀘스트 처리 담당
 
-이슈 담당자는 이슈를 처리하는 담당자
+- 버그 리포트 : jinseobhong(@jinseobhong)
+- 질문 : jinseobhong(@jinseobhong)
+- 제안 : jinseobhong(@jinseobhong)
+- 풀 리퀘스트 : jinseobhong(@jinseobhong)
+
+### 이슈 처리 방침
+
+이슈를 처리하는 방침은 다음과 같습니다.
+
+1) 이슈 처리 담당자에게 이슈가 배정됩니다.
+2) 이슈 처리 담당자는 이 이슈가 유효한 이슈인 지 확인합니다.
+3) 이슈 유효성 체크리스트
+   - [ ] 체크1
+   - [ ] 체크2
+   - [ ] 
+
+### 
