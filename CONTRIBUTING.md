@@ -130,13 +130,13 @@
    6) **Delete** to delete an existing one.
 3) 풀 리퀘스트 작성 방식으로 작성된 예제:  
 
-Changed :  
-  - Add README.md in repository
-  - Update content Item in README.md
-  - Refactory source for login method
-  - Rename README.md to readme.md
-  - Fix login error
-  - Delete README.md
+   Changed :  
+     - Add README.md in repository
+     - Update content Item in README.md
+     - Refactory source for login method
+     - Rename README.md to readme.md
+     - Fix login error
+     - Delete README.md
 
 ## 이슈 담당자, 풀 리퀘스트 담당자의 처리 방침
 
