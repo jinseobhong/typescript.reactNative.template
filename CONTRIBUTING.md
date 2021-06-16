@@ -129,7 +129,6 @@
    5) **Fix** to fix correct an error
    6) **Delete** to delete an existing one.
 3) 풀 리퀘스트 작성 방식으로 작성된 예제:  
-
    Changed :  
      - Add README.md in repository
      - Update content Item in README.md
