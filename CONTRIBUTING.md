@@ -161,10 +161,10 @@
 
 ### 이슈 처리 담당 및 풀 리퀘스트 처리 담당
 
-- 버그 리포트 : [jinseobhong](github.com/jinseobhong)
-- 질문 : [jinseobhong](github.com/jinseobhong)
-- 제안 : [jinseobhong](github.com/jinseobhong)
-- 풀 리퀘스트 : [jinseobhong](github.com/jinseobhong)
+- 버그 리포트 : [jinseobhong](https://github.com/jinseobhong)
+- 질문 : [jinseobhong](https://github.com/jinseobhong)
+- 제안 : [jinseobhong](https://github.com/jinseobhong)
+- 풀 리퀘스트 : [jinseobhong](https://github.com/jinseobhong)
 
 ### 이슈 처리 방침
 
