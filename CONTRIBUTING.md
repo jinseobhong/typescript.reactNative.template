@@ -192,7 +192,7 @@
    
    | <img src="https://user-images.githubusercontent.com/65880526/122337343-2f826800-cf79-11eb-879a-e5b3daa0c082.png" width="144" height="144">  |
    | :-------------: |
-   | jinseobhong |
+   | [jinseobhong](../../../../jinseobhong) |
    | project manager 
 
 </details>
