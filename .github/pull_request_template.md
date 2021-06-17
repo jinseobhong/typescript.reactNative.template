@@ -15,7 +15,7 @@ Write about related issues. To close a related issue, write it in the `Status`. 
 - [close keyword] [issue number]
 
 **Description of requested changes**
-For details on how to write a pull request, refer to the [Contribution Guide](../CONTRIBUTING.md).
+For details on how to write a pull request, refer to the [Contribution Guide](../blob/master/CONTRIBUTING.md).
 
 Changed :
    - Add README.md in repository
