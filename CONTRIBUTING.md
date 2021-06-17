@@ -7,6 +7,18 @@
    - 이 프로젝트를 구성하는 다른 저장소의 이슈에 관해서는 해당하는 저장소에 이슈를 등록해주시기 바랍니다.
 - 이 기여 가이드에 맞지 않게 작성된 이슈에 대해서는 답변을 보장하지 않습니다.
 
+## 기여자
+
+<details>
+<summary>Toggle the contributor list</summary>
+   
+   | <img src="https://user-images.githubusercontent.com/65880526/122337343-2f826800-cf79-11eb-879a-e5b3daa0c082.png" width="144" height="144">  |
+   | :-------------: |
+   | jinseobhong |
+   | project manager |
+
+</details>
+
 ## 커밋 메세지 작성 방법
 
 1) 커밋 메세지의 제목은 50자를 초과하지 않아야합니다.
@@ -171,10 +183,16 @@
       - [ ] 이 이슈가 기여 가이드에 작성된 작성 방법에 따라 작성되었습니까?(아닌 경우 `is invalid format` 라벨을 추가합니다)
       - [ ] 이 이슈를 처리하는 데, 추가적인 정보가 필요합니까?(필요한 경우 'request more information` 라벨을 추가합니다)
       - [ ] 이 이슈는 처리하는 데, 논의가 필요합니까?(필요한 경우 `is under discussion` 라벨을 추가합니다)담당자는 이슈 유효성 체크리스트를 확인한 후 이슈를 처리하는 데 필요한 코멘트를 남깁니다.
+3) 담당자는 이슈를 처리하는 데, 필요한 정보를 코멘트로 남겨 이슈 소유자에게 전달합니다.
 
 ## 이슈 및 풀 리퀘스트 담당자
 
-| <img src="https://user-images.githubusercontent.com/65880526/122337343-2f826800-cf79-11eb-879a-e5b3daa0c082.png" width="144" height="144">  |
-| :-------------: |
-| jinseobhong |
-| 저장소 소유자 |
+<details>
+<summary>Toggle the issue assigner list</summary>
+   
+   | <img src="https://user-images.githubusercontent.com/65880526/122337343-2f826800-cf79-11eb-879a-e5b3daa0c082.png" width="144" height="144">  |
+   | :-------------: |
+   | jinseobhong |
+   | project manager 
+
+</details>
