@@ -61,11 +61,16 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 
 ### Kind of issue
 
-이슈 종류는 총 다섯 가지(버그 리포트 , 질문, 제안, 구현, 구현 테스트)로 되어있습니다. *버그 리포트*는 사용 상 문제가 생겼을 경우 작성합니다. *질문*은 버그 외 질문 사항에 대해 작성합니다. *제안*은 이 프로젝트 혹은 저장소에 대해 제안입니다. *구현*은 기여자를 위한 이슈로, 구현하고자 하는 내용이 있을 때 진행사항을 추적하는 용도로 사용합니다. *구현 테스트*는 구현한 것에 대한 테스트를 작성하기 위한 이슈입니다. **구현 및 구현 테스트에 대한 이슈 템플릿**은 공동 기여자로 등록됬을 경우 사용할 수 있습니다.
+There are five types of issues(bug report, question, suggestion, implementation, implementation test).
+- *Bug Report* is written when there is a problem in use. 
+- *Questions* are for non-bug questions.
+- *Suggestion* is a suggestion for this project or repository.
+- *Implementation* is an issue for contributors, and is used to track progress when there is content to be implemented.
+- *implementationtest* is an issue for contributors, and is used to track progress when there is test about implementation.
 
-### 이슈 작성 방법
+### How to create an issue
 
-각 이슈의 종류에 따른 이슈 작성 방법에 대한 안내입니다.
+This is a guide on how to write an issue for each type of issue.
 
 #### 버그 리포트 작성
 
