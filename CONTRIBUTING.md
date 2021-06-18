@@ -22,8 +22,8 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 ## How to write a commit message
 
 1) Commit message's title should not exceed 50.
-2) Commit message's title in the form **Type of vcs action** content about vcs action.
-3) Type of vcs action is as follows :
+2) Commit message's title in the form **Type of action** content about action.
+3) Type of action is as follows :
    1) **Add** to add something that did not exist before.
    2) **Update** to improve the function of an existing one.
    3) **Refactory** to improve non-functionality of an existing one.
