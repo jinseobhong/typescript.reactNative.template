@@ -35,9 +35,8 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 6) Description of commit message is written semantically about what the commit will do.
 7) Here is an example of a commit message:
 
-   > ! Commit title  
    > Add README.md  
-   > ! Commit description  
+   > 
    > Add a readme file from the repository.
 
 ## How to create an issue and pull request
@@ -72,22 +71,22 @@ There are five types of issues(bug report, question, suggestion, implementation,
 
 This is a guide on how to write an issue for each type of issue.
 
-#### 버그 리포트 작성
+#### How to create bug report
 
-*버그 리포트*는 사용 중 발생한 오류가 있을 때 작성합니다. 
+*Bug report* is created when there is an error that occurred during use.
 
-버그 리포트는 다음과 같은 방법으로 작성하면 됩니다.
+a *Bug report* can be created in the following way:
 
-1) 제목에는 [BUG] Bug report content 양식으로 작성해주시기 바랍니다.
-   - 예를 들어 : [BUG] 초기화 오류
-2) 버그가 해당되는 종류를 라벨에 추가해주시기 바랍니다.
-3) 버그에 대해 자세히 설명해주세요.
-5) 버그가 발생한 환경에 대해 적어주세요.
-6) 버그를 재현하는 방법에 대해 적어주세요.
-7) 버그가 일어나지 않았을 경우 예상됬던 것에 대해 적어주세요.
-8) 버그가 일어난 스크린샷에 대해 적어주세요.
-9) 버그에 대해 추가로 작성할 내용이 있다면 적어주세요.
-10) 버그에 대해 참고할 것이 있다면 적어주세요.
+1) Please fill in the title in the form of [BUG] Bug report content. Example : 
+   - [BUG] Initialization error
+2) Please add the type of bug to the label.
+3) Please describe the bug in detail.
+5) Please write about the environment in which the bug occurred.
+6) Please bug me on how to reproduce it.
+7) Write down what to expect when no bugs occur.
+8) Please upload about the screenshot where the bug occurred.
+9) If you have more to write about the bug, please write it.
+10) If you have any references to the bug, please write.
 
 #### 질문에 대한 이슈 작성
 
