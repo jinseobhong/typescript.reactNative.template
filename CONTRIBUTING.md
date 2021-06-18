@@ -42,13 +42,16 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 
 ### Common rules for creating issues and pull requests
 
-1) Issue title must not exceed 50 characters(Github recommends title of 50 characters or less).
+1) Issue title must not exceed 50 characters(Github recommends title of 50 characters or less). 
 2) Issue title in the form **[Type of issue]** content about issue.
-3) Content about issue should be written semantically so that it can be inferred what kind of content it is. Example :
+3) Actions in messages must not be nested. Example :
+   - [ ] [BUG] Bug initialization
+   - [x] [BUG] Initialization about repository
+4) Content about issue should be written semantically so that it can be inferred what kind of content it is. Example :
    - [ ] [BUG] Process of initial is not working
    - [x] [BUG] Initialization error due to dependency conflict in Package.json
-4) Please fill in the description section of the issue form in accordance with the 5W1 principle.
-5) Please fill out the reproduction method required by the form procedurally.
+5) Please fill in the description section of the issue form in accordance with the 5W1 principle.
+6) Please fill out the reproduction method required by the form procedurally.
    1) Cloning repository
    2) Initialization project
    3) Test about successful execution
