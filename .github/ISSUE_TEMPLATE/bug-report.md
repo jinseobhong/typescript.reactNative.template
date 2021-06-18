@@ -40,8 +40,8 @@ OS : [ e.g: Ubuntu 20.04 LTS, etc .. ]
 Java : [ e.g: openjdk 11.0.11 2021-04-20, etc .. ]
 Node : [ e.g: v16.3.0, etc .. ]
    - Package dependency manager :
-      - npm : 7.15.1
-      - yarn : 1.22.10
+      - npm : [ e.g: 7.15.1, etc .. ]
+      - yarn :[ e.g: 1.22.10, etc .. ]
    - Packages :
       - dependencies :
          - something dependencies [ e.g: "react-native": "0.64.2", etc .. ]
