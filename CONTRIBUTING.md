@@ -24,12 +24,14 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 1) Commit message's title should not exceed 50.
 2) Commit message's title in the form **Type of implementation** content about implementation.
 3) Type of implementation is as follows :
+
    1) **Add** to add something that did not exist before.
    2) **Update** to improve the function of an existing one.
    3) **Refactory** to improve non-functionality of an existing one.
    4) **Rename** to changing the name of a file or directory, changing its location.
    5) **Fix** to fix correct an error.
    6) **Delete** to delete an existing one.
+
 4) Content about implementationare written semantically.
 5) Description of commit message is written after a newline of 2 new lines below the title.
 6) Description of commit message is written semantically about what the commit will do.
@@ -46,11 +48,15 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 1) Issue title must not exceed 50 characters(Github recommends title of 50 characters or less).
 2) Issue title in the form **[Type of issue]** content about issue.
 3) If issue title contains details, do not duplicate them. Example :
+
    - [ ] add: add README.md
    - [x] add: README.md
+
 5) Content about issue should be written semantically so that it can be inferred what kind of content it is. Example :
+
    - [ ] [BUG] Process of initial is not working
    - [x] [BUG] Initialization error due to dependency conflict in Package.json
+
 6) Please fill in the description section of the issue form in accordance with the 5W1 principle.
 7) Please fill out the reproduction method required by the form procedurally.
    1) Cloning repository
@@ -61,6 +67,7 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 ### Kind of issue
 
 There are five types of issue.
+
 - *Bug report* is written when there is a problem in use. 
 - *Question about something* are for non-bug questions.
 - *Suggest for this project* is a suggestion for this project or repository.
@@ -78,7 +85,9 @@ This is a guide on how to write an issue for each type of issue.
 *Bug report* can be created in the following way:
 
 1) Please fill in the title in the form of [BUG] content about bug. Example : 
+
    - [BUG] Initialization error
+
 2) Please add the type of bug to the label.
 3) Please describe the bug in detail.
 5) Please write about the environment in which the bug occurred.
@@ -95,7 +104,9 @@ This is a guide on how to write an issue for each type of issue.
 *Question about something* can be written in the following way:
 
 1) Please fill in the title in the form of [QUESTION] content about question. Example :
+
    - [QUESTION] How to sync repository
+
 2) Please add the type of question to the label.
 3) Please describe the question in detail.
 4) If the question requires information about the environment, write it down.
@@ -110,7 +121,9 @@ This is a guide on how to write an issue for each type of issue.
 *Suggest for this project* can be made in the following ways:
 
 1) Please fill in the title in the form of [SUGGESTION] content about suggestion. Example : 
+
    - [SUGGESTION] Improvements to the initialization experience
+
 2) Please add the type of suggestion to the label.
 3) Please describe the suggestion in detail.
 4) If the suggestion requires information about the environment, write it down.
@@ -120,12 +133,14 @@ This is a guide on how to write an issue for each type of issue.
 
 #### How to create issue about *Implementation*
 
-*Implementation* is written when tracking progress(work progress and goals) towards implementing this project or repository.
+*Implementation* is written when tracking progress(progress of task and goals) towards implementing this project or repository.
 
 *Implementation* can be written in the following way:
 
 1) Please fill in the title in the form of [Kind of implement] content about implement. Example :
+
    - [REPOSITORY] Add issue template
+
 2) Please add the type of implementation to the label.
 3) Please describe what you are trying to solve with your implementation.
 4) Write about implementation goals.
@@ -137,12 +152,14 @@ This is a guide on how to write an issue for each type of issue.
 
 #### How to create issue about *Test for implementation*
 
-*Test for implementation* is used to track tests (test progress and goals) for what is implemented in this project or repository.
+*Test for implementation* is used to track tests(progress of task and goals) for what is implemented in this project or repository.
 
 *Test for implementation* can be written in the following way:
 
 1) Please fill in the title in the form of [TEST] content about test. Example :
+
    - [TEST] Successful execution about initiazation
+
 2) Please add the type of test to the label.
 3) Describes what to test.
 4) Write about test goals.
@@ -151,41 +168,57 @@ This is a guide on how to write an issue for each type of issue.
 7) Write down describe about testing.
 8) If you have any references to the test, please write.
 
-### 풀 리퀘스트 작성 방법
+### How to create *Pull request*
 
-*풀 리퀘스트*로 저장소에 기여하고자 할 떄 다음과 같은 방법으로 작성해주시기 바랍니다.
+If you would like to contribute to the repository as a *Pull request*, please write it in the following way.
 
-1) 제목에는 *풀 리퀘스트로 하는 행동* 풀 리퀘스트 내용 양식으로 작성해주시기 바랍니다.
-   - 예를 들어 : Add contributor code of conduct
-2) 풀 리퀘스트로 하는 행동은 다음과 같습니다.
+1) Please fill in the title in the form of [Action of pull request] content about pull request. Example :
+
+   - Add contributor code of conduct
+
+2) The actions taken with a pull request are as follows :
+
    1) **Add** to add something that did not exist before
    2) **Update** to improve the function of an existing one
    3) **Refactory** to improve non-functionality of an existing one
-   4) **Rename** to changing the name of a file or directory, changing its location
+   4) **Rename** to 7) Write your own code review checklistchanging the name of a file or directory, changing its location
    5) **Fix** to fix correct an error
    6) **Delete** to delete an existing one.
-3) 풀 리퀘스트 작성 방식으로 작성된 예제:  
-   Changed :  
-     - Add README.md in repository
-     - Update content Item in README.md
-     - Refactory source for login method
-     - Rename README.md to readme.md
-     - Fix login error
-     - Delete README.md
 
-## 이슈 처리 방침 및 풀 리퀘스트 처리 방침
+3) Please add the type of action of pull request to the label.
+4) Write the related issues as follows :
 
-이슈 및 풀 리퀘스트를 처리하는 방침은 다음과 같습니다.
+   - close #1
+   - close #2
 
-1) 담당자에게 이슈가 배정됩니다.
-2) 담당자는 이 이슈가 유효한 이슈한 지, 이슈 유효성 체크리스트를 통해 확인합니다.
-   - 이슈 유효성 체크리스트
-      - [ ] 이 이슈가 이 프로젝트 혹은 저장소에 관한 이슈입니까?(아닌 경우 `is invalid` 라벨을 추가합니다)
-      - [ ] 이 이슈가 중복 되었습니까?(아닌 경우 `is duplicated` 라벨을 추가합니다)
-      - [ ] 이 이슈의 유형이 올바릅니까?(아닌 경우 `is incorrect type` 라벨을 추가합니다)
-      - [ ] 이 이슈가 기여 가이드에 작성된 작성 방법에 따라 작성되었습니까?(아닌 경우 `is invalid format` 라벨을 추가합니다)
+5) Write a description of the requested change as follows :
+
+- Changed :
+  - Add README.md in repository
+  - Update ontent Item in README.md
+  - Refactory source for login method
+  - Rename README.md to readme.md
+  - Fix login error
+  - Delete README.md
+
+7) Fill out a checklist Checklist self-code review
+8) Fill out a checklist before requesting a pull
+
+## Processing policy for issues and pull Requests
+
+The policy for handling issues and pull requests is as follows.
+
+1) The issue is assignIs this issue the correct type?son in charge.
+2) The person in charge checks whether this issue is a valid issue through the issue validity checklist.
+
+   - Issue validation checklist
+      - [ ] Is this issue belong to this repository or project?(If not, add the label `is invalid`)
+      - [ ] Is this issue a duplicate?(If not, add the label `is duplicated`)
+      - [ ] Is this issue the correct type?(If not, add the label `is incorrect type`)
+      - [ ] Is this issue create according to how it is create in the contribution guide?(If not, add the label `is invalid format`)
       - [ ] 이 이슈를 처리하는 데, 추가적인 정보가 필요합니까?(필요한 경우 'request more information` 라벨을 추가합니다)
       - [ ] 이 이슈는 처리하는 데, 논의가 필요합니까?(필요한 경우 `is under discussion` 라벨을 추가합니다)담당자는 이슈 유효성 체크리스트를 확인한 후 이슈를 처리하는 데 필요한 코멘트를 남깁니다.
+
 3) 담당자는 이슈를 처리하는 데, 필요한 정보를 코멘트로 남겨 이슈 소유자에게 전달합니다.
 
 ## 이슈 및 풀 리퀘스트 담당자
