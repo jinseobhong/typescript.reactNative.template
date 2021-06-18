@@ -60,22 +60,22 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 
 ### Kind of issue
 
-There are five types of issues(bug report, question, suggestion, implementation, implementation test).
+There are five types of issues(bug report, question, suggestion, implementation, test about implementation).
 - *Bug Report* is written when there is a problem in use. 
-- *Questions* are for non-bug questions.
+- *Question* are for non-bug questions.
 - *Suggestion* is a suggestion for this project or repository.
 - *Implementation* is an issue for contributors, and is used to track progress when there is content to be implemented.
-- *implementationtest* is an issue for contributors, and is used to track progress when there is test about implementation.
+- *Test about implementation* is an issue for contributors, and is used to track progress when there is test about implementation.
 
 ### How to create an issue
 
 This is a guide on how to write an issue for each type of issue.
 
-#### How to create bug report
+#### How to create issue abot bug report
 
 *Bug report* is created when there is an error that occurred during use.
 
-a *Bug report* can be created in the following way:
+*Bug report* can be created in the following way:
 
 1) Please fill in the title in the form of [BUG] Bug report content. Example : 
    - [BUG] Initialization error
@@ -88,20 +88,20 @@ a *Bug report* can be created in the following way:
 9) If you have more to write about the bug, please write it.
 10) If you have any references to the bug, please write.
 
-#### 질문에 대한 이슈 작성
+#### How to create issue abot question
 
-*질문*은 버그 외 질문 사항이 있을 때 작성합니다.
+*Question* write when you have question other than bug.
 
-질문은 다음과 같은 방법으로 작성하면 됩니다.
+*Question* can be written in the following way:
 
-1) 제목에는 [질문] 질문할 내용 양식으로 작성해주시기 바랍니다.
-   - 예를 들어 : [질문] 저장소 사용방법에 대한 질문
-2) 질문에 해당되는 종류를 라벨에 추가해주시기 바랍니다.
-3) 무엇을 질문하는 지에 대해 설명해주시기 바랍니다.
-4) 질문에 환경에 대한 정보가 필요하다면 적어주세요.
-5) 질문을 하기 전 해본 대안사항이 있다면 적어주세요.
-6) 질문에 대해 추가로 작성할 내용이 있다면 적어주세요.
-7) 질문에 대해 참고할 것이 있다면 적어주세요.
+1) Please fill in the title in the form of [QUESTION] question content. Example :
+   - [QUESTION] How to sync repository
+2) Please add the type of question to the label.
+3) Please describe the question in detail.
+4) If the question requires information about the environment, write it down.
+5) Please write down any alternatives you have tried before asking the question.
+6) If you have anything else to write about the question, please do.
+7) If you have any references to the question, please write.
 
 #### 제안에 대한 이슈 작성 
 
