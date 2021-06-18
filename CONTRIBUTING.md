@@ -139,17 +139,17 @@ This is a guide on how to write an issue for each type of issue.
 
 *Test for implementation* is used to track tests (test progress and goals) for what is implemented in this project or repository.
 
-구현은 다음과 같은 방법으로 작성하면 됩니다.
+*Test for implementation* can be written in the following way:
 
-1) 제목에는 [테스트] 테스트 내용 양식으로 작성해주시기 바랍니다.
-   - 예를 들어 : [저장소] 이슈 템플릿 추가
-2) 구현 테스트 종류를 라벨에 추가해주시기 바랍니다.
-3) 테스트 할 대상에 대해 설명 하십시오.
-4) 구현 테스트 목표에 대해 적으십시오.
-5) 구현 테스트를 위한 환경에 대해 적으십시오.
-6) 구현 테스트를 위한 작업을 적으십시오.
-7) 구현 테스트에 대해 추가로 작성할 내용이 있다면 적어주세요.
-8) 구현에 대해 참고할 것이 있다면 적어주세요.
+1) Please fill in the title in the form of [TEST] content about test. Example :
+   - [TEST] Successful execution about initiazation
+2) Please add the type of test to the label.
+3) Describes what to test.
+4) Write about test goals.
+5) Write about the environment for test.
+6) Write down your task to test.
+7) Write down describe about testing.
+8) If you have any references to the test, please write.
 
 ### 풀 리퀘스트 작성 방법
 
