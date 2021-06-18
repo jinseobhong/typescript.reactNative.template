@@ -178,7 +178,7 @@ If you would like to contribute to the repository as a *Pull request*, please wr
 7) Fill out a checklist Checklist self-code review
 8) Fill out a checklist before requesting a pull
 
-## Processing policy for issues and pull Requests
+## Processing policy for issues and pull request
 
 The policy for handling issues and pull requests is as follows.
 
