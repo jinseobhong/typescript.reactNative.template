@@ -22,15 +22,15 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 ## How to write a commit message
 
 1) Commit message's title should not exceed 50.
-2) Commit message's title in the form **Implementation Type** Implementation content
-3) Implementation type of commit message's title is as follows :
+2) Commit message's title in the form **Type of implementation** content about implementation.
+3) Type of implementation is as follows :
    1) **Add** to add something that did not exist before.
    2) **Update** to improve the function of an existing one.
    3) **Refactory** to improve non-functionality of an existing one.
    4) **Rename** to changing the name of a file or directory, changing its location.
    5) **Fix** to fix correct an error.
    6) **Delete** to delete an existing one.
-4) Implementation content of commit message's title are written semantically.
+4) Content about implementationare written semantically.
 5) Description of commit message is written after a newline of 2 new lines below the title.
 6) Description of commit message is written semantically about what the commit will do.
 7) Here is an example of a commit message:
@@ -44,11 +44,11 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 ### Common rules for creating issues and pull requests
 
 1) Issue title must not exceed 50 characters(Github recommends title of 50 characters or less).
-2) Issue title in the form **[Type of issue]** Issue content.
-3) If issue title contains issue details, do not duplicate them. Example :
+2) Issue title in the form **[Type of issue]** content about issue.
+3) If issue title contains details, do not duplicate them. Example :
    - [ ] add: add README.md
    - [x] add: README.md
-5) Issue content should be written semantically so that it can be inferred what kind of content it is. Example :
+5) Content about issue should be written semantically so that it can be inferred what kind of content it is. Example :
    - [ ] [BUG] Process of initial is not working
    - [x] [BUG] Initialization error due to dependency conflict in Package.json
 6) Please fill in the description section of the issue form in accordance with the 5W1 principle.
@@ -60,12 +60,12 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 
 ### Kind of issue
 
-There are five types of issues(bug report, question, suggestion, implementation, test about implementation).
+There are five types of issue.
 - *Bug report* is written when there is a problem in use. 
-- *Question* are for non-bug questions.
-- *Suggestion* is a suggestion for this project or repository.
+- *Question about something* are for non-bug questions.
+- *Suggest for this project* is a suggestion for this project or repository.
 - *Implementation* is an issue for contributors, and is used to track progress when there is content to be implemented.
-- *Test about implementation* is an issue for contributors, and is used to track progress when there is test about implementation.
+- *Test for implementation* is an issue for contributors, and is used to track progress when there is test about implementation.
 
 ### How to create an issue
 
@@ -77,7 +77,7 @@ This is a guide on how to write an issue for each type of issue.
 
 *Bug report* can be created in the following way:
 
-1) Please fill in the title in the form of [BUG] Bug report content. Example : 
+1) Please fill in the title in the form of [BUG] content about bug. Example : 
    - [BUG] Initialization error
 2) Please add the type of bug to the label.
 3) Please describe the bug in detail.
@@ -88,13 +88,13 @@ This is a guide on how to write an issue for each type of issue.
 9) If you have more to write about the bug, please write it.
 10) If you have any references to the bug, please write.
 
-#### How to create issue about *Question*
+#### How to create issue about *Question about something*
 
-*Question* write when you have question other than bug.
+*Question about something* write when you have question other than bug.
 
-*Question* can be written in the following way:
+*Question about something* can be written in the following way:
 
-1) Please fill in the title in the form of [QUESTION] question content. Example :
+1) Please fill in the title in the form of [QUESTION] content about question. Example :
    - [QUESTION] How to sync repository
 2) Please add the type of question to the label.
 3) Please describe the question in detail.
@@ -103,13 +103,13 @@ This is a guide on how to write an issue for each type of issue.
 6) If you have anything else to write about the question, please do.
 7) If you have any references to the question, please write.
 
-#### How to create issue about *Suggestion*
+#### How to create issue about *Suggest for this project*
 
-*Suggestion* writes when you have plans to make a proposal to this project or repository.
+*Suggest for this project* writes when you have plans to make a proposal to this project or repository.
 
-*Suggestion* can be made in the following ways:
+*Suggest for this project* can be made in the following ways:
 
-1) Please fill in the title in the form of [SUGGESTION] suggestion content. Example : 
+1) Please fill in the title in the form of [SUGGESTION] content about suggestion. Example : 
    - [SUGGESTION] Improvements to the initialization experience
 2) Please add the type of suggestion to the label.
 3) Please describe the suggestion in detail.
@@ -124,7 +124,7 @@ This is a guide on how to write an issue for each type of issue.
 
 *Implementation* can be written in the following way:
 
-1) Please fill in the title in the form of [Kind of implement] Implement content. Example :
+1) Please fill in the title in the form of [Kind of implement] content about implement. Example :
    - [REPOSITORY] Add issue template
 2) Please add the type of implementation to the label.
 3) Please describe what you are trying to solve with your implementation.
@@ -135,9 +135,9 @@ This is a guide on how to write an issue for each type of issue.
 8) If you have anything else to write about the implementation, please write it down.
 9) If you have any references to the implementation, please write.
 
-#### 구현 테스트에 대한 이슈(기여자용) 작성
+#### How to create issue about *Test for implementation*
 
-*구현 테스트*는 이 프로젝트 혹은 저장소에 구현된 것에 대한 테스트 사항(테스트 진척도 및 목표)를 추적할 때 사용합니다.
+*Test for implementation* is used to track tests (test progress and goals) for what is implemented in this project or repository.
 
 구현은 다음과 같은 방법으로 작성하면 됩니다.
 
