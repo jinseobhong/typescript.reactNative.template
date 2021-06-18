@@ -61,7 +61,7 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 ### Kind of issue
 
 There are five types of issues(bug report, question, suggestion, implementation, test about implementation).
-- *Bug Report* is written when there is a problem in use. 
+- *Bug report* is written when there is a problem in use. 
 - *Question* are for non-bug questions.
 - *Suggestion* is a suggestion for this project or repository.
 - *Implementation* is an issue for contributors, and is used to track progress when there is content to be implemented.
@@ -71,7 +71,7 @@ There are five types of issues(bug report, question, suggestion, implementation,
 
 This is a guide on how to write an issue for each type of issue.
 
-#### How to create issue abot bug report
+#### How to create issue about *Bug report*
 
 *Bug report* is created when there is an error that occurred during use.
 
@@ -88,7 +88,7 @@ This is a guide on how to write an issue for each type of issue.
 9) If you have more to write about the bug, please write it.
 10) If you have any references to the bug, please write.
 
-#### How to create issue abot question
+#### How to create issue about *Question*
 
 *Question* write when you have question other than bug.
 
@@ -103,22 +103,21 @@ This is a guide on how to write an issue for each type of issue.
 6) If you have anything else to write about the question, please do.
 7) If you have any references to the question, please write.
 
-#### 제안에 대한 이슈 작성 
+#### How to create issue about *Suggestion*
 
-*제안*은 이 프로젝트 혹은 저장소에 제안할 것이 있을 때 작성합니다.
+*Suggestion* writes when you have plans to make a proposal to this project or repository.
 
-제안은 다음과 같은 방법으로 작성하면 됩니다.
+*Suggestion* can be made in the following ways:
+1)Please fill in the title in the form of [SUGGESTION] suggestion content. Example : 
+   - [SUGGESTION] Improvements to the initialization experience
+2) Please add the type of suggestion to the label.
+3) Please describe the suggestion in detail.
+4) If the suggestion requires information about the environment, write it down.
+5) Please write down any alternatives you have tried before suggest.
+6) If you have anything else to write about the suggestion, please do.
+7) If you have any references to the suggestion, please write.
 
-1) 제목에는 [제안] 제안할 내용 양식으로 작성해주시기 바랍니다.
-   - 예를 들어 : [제안] 이슈 템플릿에 대한 개선 사항
-2) 제안에 해당하는 종류를 라벨에 추가해주시기 바랍니다.
-3) 제안으로 해결하고 자 하는 것을 적어주시기 바랍니다.
-4) 제안에 환경에 대한 정보가 필요하다면 적어주세요.
-5) 이 제안하기 전에 시도했던 해결 방법이 있다면 적어주세요.
-6) 제안에 대해 추가로 작성할 내용이 있다면 적어주세요.
-7) 제안에 대해 참고할 것이 있다면 적어주세요.
-
-#### 구현에 대한 이슈(기여자용) 작성
+#### How to create issue about *Implementation*
 
 *구현*은 이 프로젝트 혹은 저장소에 구현할 것에 대한 진행 사항(작업 진척도 및 목표)를 추적할 때 작성합니다.
 
