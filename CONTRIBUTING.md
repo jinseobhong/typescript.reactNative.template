@@ -1,13 +1,13 @@
-# 기여에 대하여
+# About Contribution
 
-우선 기여를 해주시려는 모든 분들에게 감사드립니다. 이 기여 가이드에서는 **커밋 메세지 작성 방법** 및 **이슈 및 풀 리퀘스트의 작성 방법** 및 **이슈 및 풀 리퀘스트의 처리 방침**에 대해 다룹니다. 먼저, 기여를 하기 전에 다음 **유의사항**을 확인하시기 바랍니다.
+Thank you to everyone who would like to contribute. This attribution guide covers **How to write a commit message** and **How to create an issue and pull request** and **Processing policy for issues and pull Requests**. First, please check the following **Notes** before making a contribution.
 
-- 이 프로젝트 혹은 저장소에 속하지 않는 이슈에 대해서는 작성하지 마세요.
-- 이 프로젝트 혹은 저장소에 이미 비슷한 종류의 이슈가 존재하는 지에 대해 검색하세요.
-   - 이 프로젝트를 구성하는 다른 저장소의 이슈에 관해서는 해당하는 저장소에 이슈를 등록해주시기 바랍니다.
-- 이 기여 가이드에 맞지 않게 작성된 이슈에 대해서는 답변을 보장하지 않습니다.
+- Do not write about issues that do not belong to this project or repository.
+- Before writing an issue, search for similar issues already exist in this project or repository.
+- If it is an issue from another repository that makes up this project, please register the issue in that repository.
+- We do not guarantee answers to issues written inconsistently with this contribution guide.
 
-## 기여자
+## Contributor
 
 <details>
 <summary>Toggle the contributor list</summary>
@@ -19,10 +19,10 @@
 
 </details>
 
-## 커밋 메세지 작성 방법
+## How to write a commit message
 
-1) 커밋 메세지의 제목은 50자를 초과하지 않아야합니다.
-2) 커밋 메세지 제목은 **구현 종류** 구현 내용 양식으로 작성합니다.
+1) Title of the commit message should not exceed 50.
+2) Title of the commit message in the form **Implementation Type** Implementation Details
 3) 커밋 메세지 제목의 구현 종류는 다음과 같습니다 :  
    1) **Add** to add something that did not exist before
    2) **Update** to improve the function of an existing one
