@@ -15,15 +15,15 @@ Thank you to everyone who would like to contribute. This attribution guide cover
    | <img src="https://user-images.githubusercontent.com/65880526/122337343-2f826800-cf79-11eb-879a-e5b3daa0c082.png" width="144" height="144">  |
    | :-------------: |
    | [jinseobhong](https://github.com/jinseobhong) |
-   | project manager |
+   | Project manager |
 
 </details>
 
 ## How to write a commit message
 
 1) Commit message's title should not exceed 50.
-2) Commit message's title in the form **Type of implementation** content about implementation.
-3) Type of implementation is as follows :
+2) Commit message's title in the form **Type of vcs action** content about vcs action.
+3) Type of vcs action is as follows :
    1) **Add** to add something that did not exist before.
    2) **Update** to improve the function of an existing one.
    3) **Refactory** to improve non-functionality of an existing one.
@@ -201,6 +201,6 @@ The policy for handling issues and pull requests is as follows.
    | <img src="https://user-images.githubusercontent.com/65880526/122337343-2f826800-cf79-11eb-879a-e5b3daa0c082.png" width="144" height="144">  |
    | :-------------: |
    | [jinseobhong](https://github.com/jinseobhong) |
-   | project manager 
+   | Project manager 
 
 </details>
