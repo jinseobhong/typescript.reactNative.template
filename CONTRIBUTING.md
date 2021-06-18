@@ -108,7 +108,8 @@ This is a guide on how to write an issue for each type of issue.
 *Suggestion* writes when you have plans to make a proposal to this project or repository.
 
 *Suggestion* can be made in the following ways:
-1)Please fill in the title in the form of [SUGGESTION] suggestion content. Example : 
+
+1) Please fill in the title in the form of [SUGGESTION] suggestion content. Example : 
    - [SUGGESTION] Improvements to the initialization experience
 2) Please add the type of suggestion to the label.
 3) Please describe the suggestion in detail.
@@ -119,21 +120,20 @@ This is a guide on how to write an issue for each type of issue.
 
 #### How to create issue about *Implementation*
 
-*구현*은 이 프로젝트 혹은 저장소에 구현할 것에 대한 진행 사항(작업 진척도 및 목표)를 추적할 때 작성합니다.
+*Implementation* is written when tracking progress(work progress and goals) towards implementing this project or repository.
 
-구현은 다음과 같은 방법으로 작성하면 됩니다.
+*Implementation* can be written in the following way:
 
-1) 제목에는 [구현할 종류] 구현 내용 양식으로 작성해주시기 바랍니다.
-   - 구현할 종류에 대해서는 아래 2)의 라벨에서 참고하여 작성하십시오.
-   - 예를 들어 : [저장소] 이슈 템플릿 추가
-2) 구현할 종류를 라벨에 추가해주시기 바랍니다.
-3) 구현을 통해 해결하려는 사항을 설명 하십시오.
-4) 구현 목표에 대해 적으십시오.
-5) 구현을 위한 환경에 대해 적으십시오.
-6) 구현을 위한 작업을 적으십시오.
-7) 구현에 대한 대안이 있으면 알려주십시오.
-8) 구현에 대해 추가로 작성할 내용이 있다면 적어주세요.
-9) 구현에 대해 참고할 것이 있다면 적어주세요.
+1) Please fill in the title in the form of [Kind of implement] Implement content. Example :
+   - [REPOSITORY] Add issue template
+2) Please add the type of implementation to the label.
+3) Please describe what you are trying to solve with your implementation.
+4) Write about implementation goals.
+5) Write about the environment for implementation.
+6) Write down task for implementation.
+7) Please let me know if you have an alternative implementation.
+8) If you have anything else to write about the implementation, please write it down.
+9) If you have any references to the implementation, please write.
 
 #### 구현 테스트에 대한 이슈(기여자용) 작성
 
