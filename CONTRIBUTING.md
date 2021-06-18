@@ -167,7 +167,7 @@ If you would like to contribute to the repository as a *Pull request*, please wr
 4) Write the related issues as follows :
    - close #1
    - close #2
-5) Write a description of the requested change as follows :
+5) Write a description of the requested change as follows(Please make changes based on the action type written in item 2) :
 - Changed :
   - Add README.md in repository
   - Update ontent Item in README.md
@@ -189,7 +189,7 @@ The policy for handling issues and pull requests is as follows.
       - [ ] Is this issue a duplicate?(If not, add the label `is duplicated`)
       - [ ] Is this issue the correct type?(If not, add the label `is incorrect type`)
       - [ ] Is this issue create according to how it is create in the contribution guide?(If not, add the label `is invalid format`)
-      - [ ] Do you need additional information to address this issue?(Add 'request more information' label if needed)
+      - [ ] Do you need additional information to address this issue?(Add `request more information` label if needed)
       - [ ] Need a discussion to resolve this issue?(Add the `is under discussion` label if needed)
 3) The person in charge passes the necessary information to the issue owner by leaving a comment to handle the issue.
 
@@ -200,7 +200,7 @@ The policy for handling issues and pull requests is as follows.
    
    | <img src="https://user-images.githubusercontent.com/65880526/122337343-2f826800-cf79-11eb-879a-e5b3daa0c082.png" width="144" height="144">  |
    | :-------------: |
-   | [jinseobhong](../../../../jinseobhong) |
+   | [jinseobhong](https://github.com/jinseobhong) |
    | project manager 
 
 </details>
