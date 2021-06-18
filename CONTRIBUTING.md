@@ -14,52 +14,52 @@ Thank you to everyone who would like to contribute. This attribution guide cover
    
    | <img src="https://user-images.githubusercontent.com/65880526/122337343-2f826800-cf79-11eb-879a-e5b3daa0c082.png" width="144" height="144">  |
    | :-------------: |
-   | [jinseobhong](../../../../jinseobhong) |
+   | [jinseobhong](https://github.com/jinseobhong) |
    | project manager |
 
 </details>
 
 ## How to write a commit message
 
-1) Title of the commit message should not exceed 50.
-2) Title of the commit message in the form **Implementation Type** Implementation Details
-3) 커밋 메세지 제목의 구현 종류는 다음과 같습니다 :  
-   1) **Add** to add something that did not exist before
-   2) **Update** to improve the function of an existing one
-   3) **Refactory** to improve non-functionality of an existing one
-   4) **Rename** to changing the name of a file or directory, changing its location
-   5) **Fix** to fix correct an error
+1) Commit message's title should not exceed 50.
+2) Commit message's title in the form **Implementation Type** Implementation content
+3) Implementation type of commit message's title is as follows :
+   1) **Add** to add something that did not exist before.
+   2) **Update** to improve the function of an existing one.
+   3) **Refactory** to improve non-functionality of an existing one.
+   4) **Rename** to changing the name of a file or directory, changing its location.
+   5) **Fix** to fix correct an error.
    6) **Delete** to delete an existing one.
-4) 커밋 메세지 제목의 구현 내용은 의미론적으로 작성합니다.
-5) 커밋 메세지의 설명은 제목 아래에 새로운 2줄의 라인을 개행한 후 적습니다.
-6) 커밋 메세지의 설명은 커밋이 어떠한 행위를 하였는 지에 대해 의미론적으로 상세히 작성합니다.
-7) 커밋 메세지의 예제는 다음과 같습니다.  
-  
-   > Add README.md
-   >
-   > Add a readme file from the repository
+4) Implementation content of commit message's title are written semantically.
+5) Description of commit message is written after a newline of 2 new lines below the title.
+6) Description of commit message is written semantically about what the commit will do.
+7) Here is an example of a commit message:
 
-## 이슈 및 풀 리퀘스트의 작성 방법
+   > ! Commit title  
+   > Add README.md  
+   > ! Commit description  
+   > Add a readme file from the repository.
 
-### 이슈 및 풀 리퀘스트의 공통적인 작성 규칙
+## How to create an issue and pull request
 
-1) 이슈 제목은 50 자를 초과하지 않아야합니다.(Github 에서는 50 자 이하의 제목 작성을 권장합니다)
-2) 이슈 제목은 **[이슈의 종류]** 이슈의 내용 양식으로 작성 합시다.
-3) 이슈 제목에 이미 이슈 내용의 작업이 포함 된 경우 중복해서 적지 마십시오. 예를 들어 :
+### Common rules for creating issues and pull requests
+
+1) Issue title must not exceed 50 characters(Github recommends title of 50 characters or less).
+2) Issue title in the form **[Type of issue]** Issue content.
+3) If issue title contains issue details, do not duplicate them. Example :
    - [ ] add: add README.md
    - [x] add: README.md
-5) 이슈 내용은 의미론적으로 작성해서 어떠한 내용인 지 추론이 가능해야 합니다. 예를 들어 :  
-   - [ ] [BUG] 초기화 오류
-   - [x] [BUG] Package.json의 의존성 충돌로 인한 초기화 오류  
-   - 위에 작성된 내용보다 아래에 작성된 내용을 권장합니다.
-6) 이슈 양식에서 요구하는 설명의 경우 5W1 원칙 하에 적어 주시기 바랍니다.
-7) 이슈 양식에서 요구하는 재현 방식은 절차적으로 작성하여 주십시오.
-   1) 저장소 복제
-   2) 프로젝트 초기화
-   3) 프로젝트 실행 테스트
+5) Issue content should be written semantically so that it can be inferred what kind of content it is. Example :
+   - [ ] [BUG] Process of initial is not working
+   - [x] [BUG] Initialization error due to dependency conflict in Package.json
+6) Please fill in the description section of the issue form in accordance with the 5W1 principle.
+7) Please fill out the reproduction method required by the form procedurally.
+   1) Cloning repository
+   2) Initialization project
+   3) Test about successful execution
    4) ...
 
-### 이슈 종류
+### Kind of issue
 
 이슈 종류는 총 다섯 가지(버그 리포트 , 질문, 제안, 구현, 구현 테스트)로 되어있습니다. *버그 리포트*는 사용 상 문제가 생겼을 경우 작성합니다. *질문*은 버그 외 질문 사항에 대해 작성합니다. *제안*은 이 프로젝트 혹은 저장소에 대해 제안입니다. *구현*은 기여자를 위한 이슈로, 구현하고자 하는 내용이 있을 때 진행사항을 추적하는 용도로 사용합니다. *구현 테스트*는 구현한 것에 대한 테스트를 작성하기 위한 이슈입니다. **구현 및 구현 테스트에 대한 이슈 템플릿**은 공동 기여자로 등록됬을 경우 사용할 수 있습니다.
 
