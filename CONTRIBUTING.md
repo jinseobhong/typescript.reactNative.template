@@ -170,7 +170,7 @@ If you would like to contribute to the repository as a *Pull request*, please wr
 5) Write a description of the requested change as follows(Please make changes based on the action type written in item 2) :
 - Changed :
   - Add README.md in repository
-  - Update ontent Item in README.md
+  - Update content Item in README.md
   - Refactory source for login method
   - Rename README.md to readme.md
   - Fix login error
@@ -201,6 +201,6 @@ The policy for handling issues and pull requests is as follows.
    | <img src="https://user-images.githubusercontent.com/65880526/122337343-2f826800-cf79-11eb-879a-e5b3daa0c082.png" width="144" height="144">  |
    | :-------------: |
    | [jinseobhong](https://github.com/jinseobhong) |
-   | Project manager 
+   | Project manager |
 
 </details>
