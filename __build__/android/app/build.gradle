@@ -78,9 +78,9 @@ import com.android.build.OutputFile
  */
 
 project.ext.react = [
-       root: "../../../",
-       cliPath: "../../../node_modules/react-native/cli.js",
-       enableHermes: false,  // clean and rebuild if changing
+    root: "../../../",
+    cliPath: "../../../node_modules/react-native/cli.js",
+    enableHermes: false,  // clean and rebuild if changing
 ]
 
 apply from: "../../../node_modules/react-native/react.gradle"
