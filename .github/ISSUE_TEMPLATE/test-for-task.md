@@ -9,8 +9,6 @@ assignees: jinseobhong
 
 # Test for task <a href="#test-for-task" id="test-for-task">#</a>
 
-To test the task
-
 1. [What kind of task is the test for](#what-kind-of-task-is-the-test-for)
     - [Describe to What you are testing](#describe-to-what-you-are-testing)
     - [Test goals](#test-goals)
@@ -94,3 +92,5 @@ Step to test:
 Add any other context or screenshots about this issues
 
 ## Reference <a href="#reference" id="reference">#</a>
+
+When writing a test, write down what you referenced

@@ -9,8 +9,6 @@ assignees: jinseobhong
 
 # Task <a href="#task" id="task">#</a>
 
-This **issue** is about an issue **to be task** in practice.
-
 1. [What kind to task](#what-kind-to-task)
     - [Describe to What you are trying to solve by task](#describe-to-what-you-are-trying-to-solve-by-task)
     - [Task goals](#task-goals)
@@ -82,7 +80,7 @@ Please write if there is an environment required for task
                 - something devDependencies [ e.g: "@babel/core": "^7.12.9", etc .. ]
                 -
 
-### Tasks <a href="#tasks-of-task" id="tasks-of-task">#</a>
+### Tasks of Task <a href="#tasks-of-task" id="tasks-of-task">#</a>
 
 - [ ] Something about task
 
@@ -99,3 +97,5 @@ If there is an alternative to this method, please let me know. if you have tried
 Add any other context or screenshots about this issues
 
 ## Reference <a href="#reference" id="reference">#</a>
+
+When writing a task, write down what you referenced
