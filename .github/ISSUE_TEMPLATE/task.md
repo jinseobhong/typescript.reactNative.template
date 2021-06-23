@@ -82,7 +82,7 @@ Please write if there is an environment required for task
                 - something devDependencies [ e.g: "@babel/core": "^7.12.9", etc .. ]
                 -
 
-### Tasks of Task <a href="#tasks-of-task" id="tasks-of-task">#</a>
+### Tasks <a href="#tasks-of-task" id="tasks-of-task">#</a>
 
 - [ ] Something about task
 
