@@ -1,32 +1,32 @@
 ---
-name: Implementation
-about: Define what needs to be implemented and track the progress of the implementation
+name: Task
+about: Define what needs to be implemented and track the progress of the task
 title: "[Kind of implement] something to implement"
-labels: implementation
+labels: task
 assignees: jinseobhong
 
 ---
 
-# Implementation <a href="#implementation" id="implementation">#</a>
+# Task <a href="#task" id="task">#</a>
 
 This **issue** is about an issue **to be implement** in practice.
 
 1. [What kind to implement](#what-kind-to-implement)
     - [Describe to What you are trying to solve by Implement](#describe-to-what-you-are-trying-to-solve-by-Implement)
-    - [Implementation goals](#implementation-goals)
-    - [Environment for implementation](#environment-for-implementation)
-    - [Tasks of Implementation](#tasks-of-implementation)
+    - [Task goals](#task-goals)
+    - [Environment for task](#environment-for-task)
+    - [Tasks of Task](#tasks-of-task)
     - [Describe alternatives](#describe-alternatives)
 2. [Additional context](#additional-context)
 3. [Reference](#reference)
 
 ##  What kind to implement <a href="#what-kind-of-implement" id="what-kind-of-implement">#</a>
 
-Please check the type of **implement** and add label, See [here](../blob/master/CONTRIBUTING.md#how-to-create-issue-about-implementation) to see what types are available.
+Please check the type of **implement** and add label, See [here](../blob/master/CONTRIBUTING.md#how-to-create-issue-about-task) to see what types are available.
 
 ### Describe to What you are trying to solve by Implement  <a href="#describe-to-what-you-are-trying-to-solve-by-implement" id="describe-to-what-you-are-trying-to-solve-by-implement">#</a>
 
-Based on the 5W1H(who, what, where, when, why, how) principle, describes what the implementation will solve.
+Based on the 5W1H(who, what, where, when, why, how) principle, describes what the task will solve.
 - 5W1H :
    - who : who do you solve problems for?
    - what : what is problem?
@@ -34,13 +34,13 @@ Based on the 5W1H(who, what, where, when, why, how) principle, describes what th
    - when: when did you have a problem?
    - how : How to solve the problem?
  
-### Implementation goals <a href="#implementation-goals" id="Implementation-goals">#</a>
+### Task goals <a href="#task-goals" id="Task-goals">#</a>
 
 - [ ] something to implement
 
-### Environment for implementation <a href="#environment-for-implementation" id="environment-for-implementation">#</a>
+### Environment for task <a href="#environment-for-task" id="environment-for-task">#</a>
 
-Please write if there is an environment required for implementation 
+Please write if there is an environment required for task 
 
 #### Environment for Android
 - OS : [ e.g: Ubuntu 20.04 LTS, etc .. ]
@@ -82,7 +82,7 @@ Please write if there is an environment required for implementation
                 - something devDependencies [ e.g: "@babel/core": "^7.12.9", etc .. ]
                 -
 
-### Tasks of Implementation <a href="#tasks-of-implementation" id="tasks-of-implementation">#</a>
+### Tasks of Task <a href="#tasks-of-task" id="tasks-of-task">#</a>
 
 - [ ] Task to implement
 

@@ -26,11 +26,11 @@ Thank you to everyone who would like to contribute. This attribution guide cover
 3) Type of action is as follows :
    1) **Add** to add something that did not exist before.
    2) **Update** to improve the function of an existing one.
-   3) **Refactory** to improve non-functionality of an existing one.
+   3) **Re-factory** to improve non-functionality of an existing one.
    4) **Rename** to changing the name of a file or directory, changing its location.
    5) **Fix** to fix correct an error.
    6) **Delete** to delete an existing one.
-4) Content about implementationare written semantically.
+4) Content about taskare written semantically.
 5) Description of commit message is written after a newline of 2 new lines below the title.
 6) Description of commit message is written semantically about what the commit will do.
 7) Here is an example of a commit message:
@@ -63,8 +63,8 @@ There are five types of issue.
 - *Bug report* is written when there is a problem in use. 
 - *Question about something* are for non-bug questions.
 - *Suggest for this project* is a suggestion for this project or repository.
-- *Implementation* is an issue for contributors, and is used to track progress when there is content to be implemented.
-- *Test for implementation* is an issue for contributors, and is used to track progress when there is test about implementation.
+- *Task* is an issue for contributors, and is used to track progress when there is content to be implemented.
+- *Test for task* is an issue for contributors, and is used to track progress when there is test about task.
 
 ### How to create an issue
 
@@ -132,15 +132,15 @@ This is a guide on how to write an issue for each type of issue.
 7) If you have anything else to write about the suggestion, please do.
 8) If you have any references to the suggestion, please write.
 
-#### How to create issue about *Implementation*
+#### How to create issue about *Task*
 
-*Implementation* is written when tracking progress(progress of task and goals) towards implementing this project or repository.
+*Task* is written when tracking progress(progress of task and goals) towards implementing this project or repository.
 
-*Implementation* can be written in the following way:
+*Task* can be written in the following way:
 
 1) Please fill in the title in the form of [Kind of implement] content about implement. Example :
    - [REPOSITORY] Add issue template
-2) Please add the type of implementation to the label.
+2) Please add the type of task to the label.
    - label list:
      - Documentation
      - Environment
@@ -149,19 +149,19 @@ This is a guide on how to write an issue for each type of issue.
      - Re-factory
      - Repository
      - etc
-4) Please describe what you are trying to solve with your implementation.
-5) Write about implementation goals.
-6) Write about the environment for implementation.
-7) Write down task for implementation.
-8) Please let me know if you have an alternative implementation.
-9) If you have anything else to write about the implementation, please write it down.
-10) If you have any references to the implementation, please write.
+4) Please describe what you are trying to solve with your task.
+5) Write about task goals.
+6) Write about the environment for task.
+7) Write down task for task.
+8) Please let me know if you have an alternative task.
+9) If you have anything else to write about the task, please write it down.
+10) If you have any references to the task, please write.
 
-#### How to create issue about *Test for implementation*
+#### How to create issue about *Test for task*
 
-*Test for implementation* is used to track tests(progress of task and goals) for what is implemented in this project or repository.
+*Test for task* is used to track tests(progress of task and goals) for what is implemented in this project or repository.
 
-*Test for implementation* can be written in the following way:
+*Test for task* can be written in the following way:
 
 1) Please fill in the title in the form of [TEST] content about test. Example :
    - [TEST] Successful execution about initiazation
@@ -200,7 +200,7 @@ If you would like to contribute to the repository as a *Pull request*, please wr
 - Changed :
   - Add README.md in repository
   - Update content Item in README.md
-  - Refactory source for login method
+  - Re-factory source for login method
   - Rename README.md to readme.md
   - Fix login error
   - Delete README.md
