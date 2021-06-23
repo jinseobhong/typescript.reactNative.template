@@ -16,6 +16,8 @@ assignees: jinseobhong
     - [Tasks of test](#tasks-of-test)
 2. [Additional context](#additional-context)
 3. [Reference](#reference)
+4. [Things to check before writing an issue](#things-to-check-before-writing-an-issue)
+
 
 ## What kind of task is the test for <a href="#what-kind-of-task-is-the-test-for" id="what-kind-of-task-is-the-test-for">#</a>
 
@@ -94,3 +96,10 @@ Add any other context or screenshots about this issues
 ## Reference <a href="#reference" id="reference">#</a>
 
 When writing a test, write down what you referenced
+
+## Things to check before writing an issue <a href="#things-to-check-before-writing-an-issue" id="things-to-check-before-writing-an-issue">#</a>
+- Is this an issue for this repository or project?
+- Do you check for similar or identical issues before creating them?
+- Have you checked and complied with the [Code of conduct](../blob/master/CODE_OF_CONDUCT.md) for this repository?
+- Is it create for the [contributing guides](../blob/master/CONTRIBUTING.md) in this repository?
+- Did you follow the [GitHub Community Guidelines](https://docs.github.com/articles/github-community-guidelines)?
