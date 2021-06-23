@@ -1,17 +1,17 @@
 ---
-name: Test for implementation
-about: Test for implementation
+name: Test for task
+about: Test for task
 title: "[TEST] test for something"
 labels: test
 assignees: jinseobhong
 
 ---
 
-# Test for implementation <a href="#test-for-implementation" id="test-for-implementation">#</a>
+# Test for task <a href="#test-for-task" id="test-for-task">#</a>
 
-To test the implementation
+To test the task
 
-1. [What kind of implementation is the test for](#what-kind-of-implementation-is-the-test-for)
+1. [What kind of task is the test for](#what-kind-of-task-is-the-test-for)
     - [Describe to What you are testing](#describe-to-what-you-are-testing)
     - [Test goals](#test-goals)
     - [Environment for test](#environment-for-test)
@@ -19,9 +19,9 @@ To test the implementation
 2. [Additional context](#additional-context)
 3. [Reference](#reference)
 
-## What kind of implementation is the test for <a href="#what-kind-of-implementation-is-the-test-for" id="what-kind-of-implementation-is-the-test-for">#</a>
+## What kind of task is the test for <a href="#what-kind-of-task-is-the-test-for" id="what-kind-of-task-is-the-test-for">#</a>
 
-Please check the type of **test** and add label, See [here](../blob/master/CONTRIBUTING.md#how-to-create-issue-about-test-for-implementation) to see what types are available.
+Please check the type of **test** and add label, See [here](../blob/master/CONTRIBUTING.md#how-to-create-issue-about-test-for-task) to see what types are available.
 
 ### Describe to What you are testing <a href="#describe-to-what-you-are-testing" id="describe-to-what-you-are-testing">#</a>
 
