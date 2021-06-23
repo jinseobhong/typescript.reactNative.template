@@ -98,7 +98,7 @@ This is a guide on how to write an issue for each type of issue.
 *Question about something* can be written in the following way :
 
 1) Please fill in the title in the form of [QUESTION] content about question. Example :
-   - [QUESTION] How to sync reposi  -tor
+   - [QUESTION] How to sync repository
 2) Please add the type of question to the label.
    - label list :
      - Documentation
