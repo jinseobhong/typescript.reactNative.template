@@ -9,8 +9,6 @@ assignees: jinseobhong
 
 # Suggest for this project <a href="#suggest-for-this-project" id="suggest-for-this-project">#</a>
 
-Suggestions for this project
-
 1. [What would you suggest](#what-would-you-suggest)
     - [What are you trying to solve with this proposal](#what-are-you-trying-to-solve-with-this-proposal)
     - [Environment for suggest](#environment-for-suggest)
@@ -83,3 +81,5 @@ Please let me know if you have tried to fix the problem before making this sugge
 Add any other context or screenshots about this issues
 
 ## Reference <a href="#reference" id="reference">#</a>
+
+When writing a suggest, write down what you referenced

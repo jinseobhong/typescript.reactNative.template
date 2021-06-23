@@ -9,8 +9,6 @@ assignees: jinseobhong
 
 # Question about something <a href="#question-about-something" id="question-about-something">#</a>
 
-Write a **question** about what
-
 1. [What kind to question](#what-kind-of-question)
     - [What you want to ask](#what-you-want-to-ask)
     - [Environment for question](#environment-for-question)
@@ -83,3 +81,5 @@ Please write if you have tried anything before asking a question(in the order yo
 Add any other context or screenshots about this issues
 
 ## Reference <a href="#reference" id="reference">#</a>
+
+When writing a question, write down what you referenced
