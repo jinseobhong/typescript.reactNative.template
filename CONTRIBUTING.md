@@ -79,7 +79,11 @@ This is a guide on how to write an issue for each type of issue.
 1) Please fill in the title in the form of [BUG] content about bug. Example : 
    - [BUG] Initialization error
 2) Please add the type of bug to the label.
-3) Please describe the bug in detail.
+   - label list:
+     - `Environment`
+     - `Feature`
+     - `etc`
+4) Please describe the bug in detail.
 5) Please write about the environment in which the bug occurred.
 6) Please bug me on how to reproduce it.
 7) Write down what to expect when no bugs occur.
@@ -91,16 +95,21 @@ This is a guide on how to write an issue for each type of issue.
 
 *Question about something* write when you have question other than bug.
 
-*Question about something* can be written in the following way:
+*Question about something* can be written in the following way :
 
 1) Please fill in the title in the form of [QUESTION] content about question. Example :
-   - [QUESTION] How to sync repository
+   - [QUESTION] How to sync reposi  -tor
 2) Please add the type of question to the label.
-3) Please describe the question in detail.
-4) If the question requires information about the environment, write it down.
-5) Please write down any alternatives you have tried before asking the question.
-6) If you have anything else to write about the question, please do.
-7) If you have any references to the question, please write.
+   - label list :
+     - Documentation
+     - Environment
+     - Feature
+     - etc
+4) Please describe the question in detail.
+5) If the question requires information about the environment, write it down.
+6) Please write down any alternatives you have tried before asking the question.
+7) If you have anything else to write about the question, please do.
+8) If you have any references to the question, please write.
 
 #### How to create issue about *Suggest for this project*
 
@@ -111,11 +120,17 @@ This is a guide on how to write an issue for each type of issue.
 1) Please fill in the title in the form of [SUGGESTION] content about suggestion. Example : 
    - [SUGGESTION] Improvements to the initialization experience
 2) Please add the type of suggestion to the label.
-3) Please describe the suggestion in detail.
-4) If the suggestion requires information about the environment, write it down.
-5) Please write down any alternatives you have tried before suggest.
-6) If you have anything else to write about the suggestion, please do.
-7) If you have any references to the suggestion, please write.
+   - label list:
+     - `Documentation`
+     - `Environment`
+     - `Feature`
+     - `Re-factory`
+     - `etc`
+4) Please describe the suggestion in detail.
+5) If the suggestion requires information about the environment, write it down.
+6) Please write down any alternatives you have tried before suggest.
+7) If you have anything else to write about the suggestion, please do.
+8) If you have any references to the suggestion, please write.
 
 #### How to create issue about *Implementation*
 
@@ -126,13 +141,21 @@ This is a guide on how to write an issue for each type of issue.
 1) Please fill in the title in the form of [Kind of implement] content about implement. Example :
    - [REPOSITORY] Add issue template
 2) Please add the type of implementation to the label.
-3) Please describe what you are trying to solve with your implementation.
-4) Write about implementation goals.
-5) Write about the environment for implementation.
-6) Write down task for implementation.
-7) Please let me know if you have an alternative implementation.
-8) If you have anything else to write about the implementation, please write it down.
-9) If you have any references to the implementation, please write.
+   - label list:
+     - Documentation
+     - Environment
+     - Feature
+     - Fix
+     - Re-factory
+     - Repository
+     - etc
+4) Please describe what you are trying to solve with your implementation.
+5) Write about implementation goals.
+6) Write about the environment for implementation.
+7) Write down task for implementation.
+8) Please let me know if you have an alternative implementation.
+9) If you have anything else to write about the implementation, please write it down.
+10) If you have any references to the implementation, please write.
 
 #### How to create issue about *Test for implementation*
 
@@ -143,12 +166,18 @@ This is a guide on how to write an issue for each type of issue.
 1) Please fill in the title in the form of [TEST] content about test. Example :
    - [TEST] Successful execution about initiazation
 2) Please add the type of test to the label.
-3) Describes what to test.
-4) Write about test goals.
-5) Write about the environment for test.
-6) Write down your task to test.
-7) Write down describe about testing.
-8) If you have any references to the test, please write.
+   - label list : 
+     - `Environment`
+     - `Feature`
+     - `Fix`
+     - `Re-factory`
+     - `etc` 
+4) Describes what to test.
+5) Write about test goals.
+6) Write about the environment for test.
+7) Write down your task to test.
+8) Write down describe about testing.
+9) If you have any references to the test, please write.
 
 ### How to create *Pull request*
 
