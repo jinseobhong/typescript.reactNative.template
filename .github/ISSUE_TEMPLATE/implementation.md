@@ -22,7 +22,7 @@ This **issue** is about an issue **to be implement** in practice.
 
 ##  What kind to implement <a href="#what-kind-of-implement" id="what-kind-of-implement">#</a>
 
-Please check the type of **implement** and add label, See [here](../blob/master/CONTRIBUTING.md#how-to-create-issue-about-implement) to see what types are available.
+Please check the type of **implement** and add label, See [here](../blob/master/CONTRIBUTING.md#how-to-create-issue-about-implementation) to see what types are available.
 
 ### Describe to What you are trying to solve by Implement  <a href="#describe-to-what-you-are-trying-to-solve-by-implement" id="describe-to-what-you-are-trying-to-solve-by-implement">#</a>
 
