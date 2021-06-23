@@ -20,12 +20,7 @@ Write a **question** about what
 
 ## What kind of question <a href="#what-kind-of-question" id="what-kind-of-question">#</a>
 
-Please check the type of question. If it is not in the checklist, please check etc and write it yourself.
-- label list :
-   - `Documentation`
-   - `Environment`
-   - `Feature`
-   - `etc`
+Please check the type of **question** and add label, See [here](../blob/master/CONTRIBUTING.md#how-to-create-issue-about-question-about-something) to see what types are available.
 
 ### What you want to ask <a href="#what-you-want-to-ask" id="what-you-want-to-ask">#</a>
 

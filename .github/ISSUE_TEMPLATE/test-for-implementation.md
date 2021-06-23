@@ -21,13 +21,7 @@ To test the implementation
 
 ## What kind of implementation is the test for <a href="#what-kind-of-implementation-is-the-test-for" id="what-kind-of-implementation-is-the-test-for">#</a>
 
-Please check the type of implementation you want to test. If it is not on the checklist, please check etc and write it yourself.
-- label list : 
-   - `Environment`
-   - `Feature`
-   - `Fix`
-   - `Re-factory`
-   - `etc` 
+Please check the type of **test** and add label, See [here](../blob/master/CONTRIBUTING.md#how-to-create-issue-about-test-for-implementation) to see what types are available.
 
 ### Describe to What you are testing <a href="#describe-to-what-you-are-testing" id="describe-to-what-you-are-testing">#</a>
 
