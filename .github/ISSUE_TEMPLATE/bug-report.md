@@ -22,11 +22,7 @@ Please **report** any bugs you encounter
 
 ##  What kind to bug <a href="#what-kind-of-bug" id="what-kind-of-bug">#</a>
 
-Please check the type of **bug**. If it is not in the checklist, please check `etc`
-- label list:
-  - `Environment`
-  - `Feature`
-  - `etc`
+Please check the type of **bug** and add label, See [here](../blob/master/CONTRIBUTING.md#how-to-create-issue-about-bug-report) to see what types are available.
 
 ### Describe the bug <a href="#describe-the-bug" id="describe-the-bug">#</a>
 

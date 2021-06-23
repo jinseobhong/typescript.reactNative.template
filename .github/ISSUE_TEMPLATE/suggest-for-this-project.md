@@ -20,13 +20,7 @@ Suggestions for this project
 
 ## What would you suggest <a href="#what-would-you-suggest" id="what-would-you-suggest">#</a>
 
-Please check the type of suggest. If it is not in the checklist, please check `etc`
-- label list:
-   - `Documentation`
-   - `Environment`
-   - `Feature`
-   - `Re-factory`
-   - `etc`
+Please check the type of **suggest** and add label, See [here](../blob/master/CONTRIBUTING.md#how-to-create-issue-about-suggest-for-this-project) to see what types are available.
  
 ### What are you trying to solve with this proposal <a href="#what-are-you-trying-to-solve-with-this-proposal" id="what-are-you-trying-to-solve-with-this-proposal">#</a>
 
