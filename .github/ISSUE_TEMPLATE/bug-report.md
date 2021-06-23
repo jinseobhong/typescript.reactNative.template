@@ -36,7 +36,7 @@ A clear and concise description of what the bug is.
 
 Please write about the environment in which the bug occurred.
 
-#### Build environment for Android
+#### Environment for Android
 - OS : [ e.g: Ubuntu 20.04 LTS, etc .. ]
 - Virtual execution environment
    - Java : [ e.g: openjdk 11.0.11 2021-04-20, etc .. ]
@@ -57,7 +57,7 @@ Please write about the environment in which the bug occurred.
             - something devDependencies [ e.g: "@babel/core": "^7.12.9", etc .. ]
             -
 
-#### Build environment for ios
+#### Environment for ios
 - Mac OS :
 - Virtual execution environment
    - Xcode :
