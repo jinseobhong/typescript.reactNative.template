@@ -138,7 +138,7 @@ This is a guide on how to write an issue for each type of issue.
 
 *Task* can be written in the following way:
 
-1) Please fill in the title in the form of [Kind of implement] content about implement. Example :
+1) Please fill in the title in the form of [Kind of task] content about task. Example :
    - [REPOSITORY] Add issue template
 2) Please add the type of task to the label.
    - label list:

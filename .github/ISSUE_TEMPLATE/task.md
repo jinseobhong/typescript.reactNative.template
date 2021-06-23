@@ -1,7 +1,7 @@
 ---
 name: Task
 about: Define what needs to be implemented and track the progress of the task
-title: "[Kind of implement] something to implement"
+title: "[Kind of task] something to task"
 labels: task
 assignees: jinseobhong
 
@@ -9,10 +9,10 @@ assignees: jinseobhong
 
 # Task <a href="#task" id="task">#</a>
 
-This **issue** is about an issue **to be implement** in practice.
+This **issue** is about an issue **to be task** in practice.
 
-1. [What kind to implement](#what-kind-to-implement)
-    - [Describe to What you are trying to solve by Implement](#describe-to-what-you-are-trying-to-solve-by-Implement)
+1. [What kind to task](#what-kind-to-task)
+    - [Describe to What you are trying to solve by task](#describe-to-what-you-are-trying-to-solve-by-task)
     - [Task goals](#task-goals)
     - [Environment for task](#environment-for-task)
     - [Tasks of Task](#tasks-of-task)
@@ -20,11 +20,11 @@ This **issue** is about an issue **to be implement** in practice.
 2. [Additional context](#additional-context)
 3. [Reference](#reference)
 
-##  What kind to implement <a href="#what-kind-of-implement" id="what-kind-of-implement">#</a>
+##  What kind to task <a href="#what-kind-of-task" id="what-kind-of-task">#</a>
 
-Please check the type of **implement** and add label, See [here](../blob/master/CONTRIBUTING.md#how-to-create-issue-about-task) to see what types are available.
+Please check the type of **task** and add label, See [here](../blob/master/CONTRIBUTING.md#how-to-create-issue-about-task) to see what types are available.
 
-### Describe to What you are trying to solve by Implement  <a href="#describe-to-what-you-are-trying-to-solve-by-implement" id="describe-to-what-you-are-trying-to-solve-by-implement">#</a>
+### Describe to What you are trying to solve by task  <a href="#describe-to-what-you-are-trying-to-solve-by-task" id="describe-to-what-you-are-trying-to-solve-by-task">#</a>
 
 Based on the 5W1H(who, what, where, when, why, how) principle, describes what the task will solve.
 - 5W1H :
@@ -36,7 +36,7 @@ Based on the 5W1H(who, what, where, when, why, how) principle, describes what th
  
 ### Task goals <a href="#task-goals" id="Task-goals">#</a>
 
-- [ ] something to implement
+- [ ] something to task
 
 ### Environment for task <a href="#environment-for-task" id="environment-for-task">#</a>
 
@@ -84,11 +84,11 @@ Please write if there is an environment required for task
 
 ### Tasks of Task <a href="#tasks-of-task" id="tasks-of-task">#</a>
 
-- [ ] Task to implement
+- [ ] Something about task
 
 ### Describe alternatives <a href="#describe-alternatives" id="describe-alternatives">#</a>
 
-If there is an alternative to this method, please let me know. if you have tried anything before to implement(in the order you tried), Steps to reproduce the behavior:
+If there is an alternative to this method, please let me know. if you have tried anything before to task(in the order you tried), Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
