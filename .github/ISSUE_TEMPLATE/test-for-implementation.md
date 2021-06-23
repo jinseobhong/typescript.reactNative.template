@@ -2,7 +2,7 @@
 name: Test for implementation
 about: Test for implementation
 title: "[TEST] test for something"
-labels: is to do, test
+labels: test
 assignees: jinseobhong
 
 ---

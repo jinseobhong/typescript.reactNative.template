@@ -2,7 +2,7 @@
 name: Implementation
 about: Define what needs to be implemented and track the progress of the implementation
 title: "[Kind of implement] something to implement"
-labels: implementation, is to do
+labels: implementation
 assignees: jinseobhong
 
 ---
